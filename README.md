@@ -7,4 +7,4 @@ Continue on the project [MRT_Cleaning_Visualizing](https://github.com/ShihWen/MR
 
 Below is the processing flow:
 </br>
-<img src="https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png" alt="alt text"  height="350">
+<img src="https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png" alt="alt text"  height="250">
