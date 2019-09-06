@@ -1,0 +1,109 @@
+,in_cluster,out_cluster,name,in_out_cluster
+BL01,0,3,Dingpu,0_3
+BL02,0,3,Yongning,0_3
+BL03,0,1,Tucheng,0_1
+BL04,0,1,Haishan,0_1
+BL05,0,1,Far Eastern Hospital,0_1
+BL06,0,1,Fuzhong,0_1
+BL07,3,3,Banqiao,3_3
+BL08,0,1,Xinpu,0_1
+BL09,0,1,Jiangzicui,0_1
+BL10,3,3,Longshan Temple,3_3
+BL11,1,2,Ximen,1_2
+BL12,1,2,Taipei Main Station,1_2
+BL13,2,0,Shandao Temple,2_0
+BL14,1,2,Zhongxiao Xinsheng,1_2
+BL15,1,2,Zhongxiao Fuxing,1_2
+BL16,1,2,Zhongxiao Dunhua,1_2
+BL17,1,0,Sun Yat-Sen Memorial Hall,1_0
+BL18,1,0,Taipei City Hall,1_0
+BL19,3,3,Yongchun,3_3
+BL20,3,3,Houshanpi,3_3
+BL21,2,0,Kunyang,2_0
+BL22,3,3,Nangang,3_3
+BL23,3,0,Taipei Nangang Exhibition Center,3_0
+BR01,3,2,Taipei Zoo,3_2
+BR02,0,3,Muzha,0_3
+BR03,0,1,Wanfang Community,0_1
+BR04,0,1,Wanfang Hospital,0_1
+BR05,0,1,Xinhai,0_1
+BR06,0,1,Linguang,0_1
+BR07,3,3,Liuzhangli,3_3
+BR08,3,0,Technology Building,3_0
+BR12,2,0,Zhongshan Junior High School,2_0
+BR13,1,2,Songshan Airport,1_2
+BR14,3,3,Dazhi,3_3
+BR15,1,2,Jiannan Road,1_2
+BR16,2,0,Xihu,2_0
+BR17,2,0,Gangqian,2_0
+BR18,0,3,Wende,0_3
+BR19,0,1,Neihu,0_1
+BR20,0,1,Dahu Park,0_1
+BR21,0,1,Huzhou,0_1
+BR22,0,1,Donghu,0_1
+BR23,2,0,Nangang Software Park,2_0
+G01,0,3,Xindian,0_3
+G02,0,1,Xindian District Office,0_1
+G03,0,3,Qizhang,0_3
+G03A,0,1,Xiaobitan,0_1
+G04,3,3,Dapinglin,3_3
+G05,3,3,Jingmei,3_3
+G06,0,1,Wanlong,0_1
+G07,1,2,Gongguan,1_2
+G08,1,3,Taipower Building,1_3
+G10,1,0,Chiang Kai-Shek Memorial Hall,1_0
+G11,2,0,Xiaonanmen,2_0
+G13,2,0,Beimen,2_0
+G14,1,2,Zhongshan,1_2
+G16,2,0,Nanjing Fuxing,2_0
+G17,2,0,Taipei Arena,2_0
+G18,2,0,Nanjing Sanmin,2_0
+G19,3,3,Songshan,3_3
+O01,0,1,Nanshijiao,0_1
+O02,0,1,Jingan,0_1
+O03,0,1,Yongan Market,0_1
+O04,0,1,Dingxi,0_1
+O05,1,2,Guting,1_2
+O06,1,2,Dongmen,1_2
+O08,2,0,Songjiang Nanjing,2_0
+O09,2,0,Xingtian Temple,2_0
+O10,2,0,Zhongshan Elementary School,2_0
+O11,2,0,Minquan West Road,2_0
+O12,3,2,Daqiaotou,3_2
+O13,0,1,Taipei Bridge,0_1
+O14,0,1,Cailiao,0_1
+O15,0,3,Sanchong,0_3
+O16,2,0,Xianse Temple,2_0
+O17,0,3,Touqianzhuang,0_3
+O18,0,1,Xinzhuang,0_1
+O19,3,3,Fu Jen University,3_3
+O20,0,1,Danfeng,0_1
+O21,0,1,Huilong/Lo-sheng,0_1
+O50,0,1,Sanchong Elementary School,0_1
+O51,0,1,Sanhe Junior High School,0_1
+O52,0,1,Saint Ignatius High School,0_1
+O53,0,1,Sanmin Senior High School,0_1
+O54,0,1,Luzhou,0_1
+R02,2,0,Xiangshan,2_0
+R03,2,0,Taipei 101/World Trade Center,2_0
+R04,2,0,Xinyi Anhe,2_0
+R05,2,0,Daan,2_0
+R06,1,2,Daan Park,1_2
+R09,2,0,NTU Hospital,2_0
+R12,1,0,Shuanglian,1_0
+R14,3,2,Yuanshan,3_2
+R15,1,3,Jiantan,1_3
+R16,1,2,Shilin,1_2
+R17,3,3,Zhishan,3_3
+R18,0,3,Mingde,0_3
+R19,3,3,Shipai,3_3
+R20,0,3,Qilian,0_3
+R21,3,0,Qiyan,3_0
+R22,0,3,Beitou,0_3
+R22A,1,2,Xinbeitou,1_2
+R23,0,3,Fuxinggang,0_3
+R24,3,0,Zhongyi,3_0
+R25,3,0,Guandu,3_0
+R26,0,1,Zhuwei,0_1
+R27,0,3,Hongshulin,0_3
+R28,3,3,Tamsui,3_3
