@@ -1,0 +1,123 @@
+﻿ID,CH_1,CH_2,EN_1,EN_2
+BR24,南港展覽館,,Taipei Nangang Exhibition Center,
+BR23,南港軟體園區,,Nangang Software Park,
+BR22,東湖,,Donghu,
+BR21,葫洲,,Huzhou,
+BR20,大湖公園,,Dahu Park,
+BR19,內湖,,Neihu,
+BR18,文德,碧湖公園,Wende,Bihu Park
+BR17,港墘,,Gangqian,
+BR16,西湖,德明科大,Xihu,Takming University
+BR15,劍南路,美麗華,Jiannan Road,Miramar
+BR14,大直,實踐大學,Dazhi,Shih Chien University
+BR13,松山機場,,Songshan Airport,
+BR12,中山國中,,Zhongshan Junior High School,
+BR11,南京復興,,Nanjing Fuxing,
+BR10,忠孝復興,,Zhongxiao Fuxing,
+BR09,大安,,Daan,
+BR08,科技大樓,,Technology Building,
+BR07,六張犁,,Liuzhangli,
+BR06,麟光,,Linguang,
+BR05,辛亥,,Xinhai,
+BR04,萬芳醫院,,Wanfang Hospital,
+BR03,萬芳社區,,Wanfang Community,
+BR02,木柵,,Muzha,
+BR01,動物園,,Taipei Zoo,
+R22A,新北投,,Xinbeitou,
+R28,淡水,,Tamsui,
+R27,紅樹林,,Hongshulin,
+R26,竹圍,,Zhuwei,
+R25,關渡,,Guandu,
+R24,忠義,,Zhongyi,
+R23,復興崗,,Fuxinggang,
+R22,北投,,Beitou,
+R21,奇岩,,Qiyan,
+R20,唭哩岸,,Qilian,
+R19,石牌,榮總,Shipai,Veterans General Hospital
+R18,明德,,Mingde,
+R17,芝山,,Zhishan,
+R16,士林,,Shilin,
+R15,劍潭,,Jiantan,
+R14,圓山,,Yuanshan,
+R13,民權西路,,Minquan West Road,
+R12,雙連,馬偕紀念醫院,Shuanglian,Mackay Memorial Hospital
+R11,中山,,Zhongshan,
+R10,台北車站,,Taipei Main Station,
+R09,台大醫院,,NTU Hospital,
+R08,中正紀念堂,南門,Chiang Kai-Shek Memorial Hall,Nanmen
+R07,東門,,Dongmen,
+R06,大安森林公園,,Daan Park,
+R05,大安,,Daan,
+R04,信義安和,,Xinyi Anhe,
+R03,台北101/世貿,,Taipei 101/World Trade Center,
+R02,象山,,Xiangshan,
+R01,廣慈/奉天宮,,Guangci/Fengtian Temple,
+G19,松山,,Songshan,
+G18,南京三民,,Nanjing Sanmin,
+G17,台北小巨蛋,,Taipei Arena,
+G16,南京復興,,Nanjing Fuxing,
+G15,松江南京,,Songjiang Nanjing,
+G14,中山,,Zhongshan,
+G13,北門,大稻埕南,Beimen,Dadaocheng South
+G12,西門,,Ximen,
+G11,小南門,,Xiaonanmen,
+G10,中正紀念堂,南門,Chiang Kai-Shek Memorial Hall,Nanmen
+G09,古亭,,Guting,
+G08,台電大樓,,Taipower Building,
+G07,公館,台灣大學,Gongguan,National Taiwan University
+G06,萬隆,,Wanlong,
+G05,景美,,Jingmei,
+G04,大坪林,,Dapinglin,
+G03,七張,,Qizhang,
+G02,新店區公所,,Xindian District Office,
+G01,新店,碧潭,Xindian,Bitan
+G03A,小碧潭,新店高中,Xiaobitan,Xindian Senior High School
+O54,蘆洲,蘆洲李宅,Luzhou,Luzhou Lee Family Historic Estate
+O53,三民高中,空中大學,Sanmin Senior High School,National Open University
+O52,徐匯中學,,Saint Ignatius High School,
+O51,三和國中,,Sanhe Junior High School,
+O50,三重國小,,Sanchong Elementary School,
+O21,迴龍,樂生,Huilong/Lo-sheng,
+O20,丹鳳,,Danfeng,
+O19,輔大,,Fu Jen University,
+O18,新莊,新莊廟街,Xinzhuang,Xinzhuang Temple Street
+O17,頭前莊,臺北醫院,Touqianzhuang,Taipei Hospital
+O16,先嗇宮,,Xianse Temple,
+O15,三重,,Sanchong,
+O14,菜寮,新北市立醫院,Cailiao,New Taipei City Hospital
+O13,台北橋,,Taipei Bridge,
+O12,大橋頭,大橋國小,Daqiaotou,Daqiao Elementary School
+O11,民權西路,,Minquan West Road,
+O10,中山國小,晴光商圈,Zhongshan Elementary School,Qingguang Commercial Zone
+O09,行天宮,,Xingtian Temple,
+O08,松江南京,,Songjiang Nanjing,
+O07,忠孝新生,台北科大,Zhongxiao Xinsheng,National Taipei University of Technology
+O06,東門,,Dongmen,
+O05,古亭,,Guting,
+O04,頂溪,,Dingxi,
+O03,永安市場,,Yongan Market,
+O02,景安,,Jingan,
+O01,南勢角,,Nanshijiao,
+BL23,南港展覽館,,Taipei Nangang Exhibition Center,
+BL22,南港,,Nangang,
+BL21,昆陽,,Kunyang,
+BL20,後山埤,五分埔商圈,Houshanpi,Wufenpu Commercial Zone
+BL19,永春,,Yongchun,
+BL18,市政府,,Taipei City Hall,
+BL17,國父紀念館,,Sun Yat-Sen Memorial Hall,
+BL16,忠孝敦化,,Zhongxiao Dunhua,
+BL15,忠孝復興,,Zhongxiao Fuxing,
+BL14,忠孝新生,台北科大,Zhongxiao Xinsheng,National Taipei University of Technology
+BL13,善導寺,華山,Shandao Temple,Huashan
+BL12,台北車站,,Taipei Main Station,
+BL11,西門,,Ximen,
+BL10,龍山寺,艋舺商圈,Longshan Temple,Bangka Commercial Zone
+BL09,江子翠,,Jiangzicui,
+BL08,新埔,,Xinpu,
+BL07,板橋,,Banqiao,
+BL06,府中,林家花園,Fuzhong,The Lin Family Mansion and Garden
+BL05,亞東醫院,,Far Eastern Hospital,
+BL04,海山,,Haishan,
+BL03,土城,,Tucheng,
+BL02,永寧,,Yongning,
+BL01,頂埔,,Dingpu,
