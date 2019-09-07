@@ -14,6 +14,7 @@ Below is the processing flow:
 Steps
 
 1. Refine the data using functions in MRT_cleaning_visualizing.ipynb, which will be used as raw data for K-means, </br>where the data for each stations has been transfered from 7*21 table to a list and normalized.
+![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/raw_data.png)
 2. Run K-means analysis with those hourly number of people as variables by _MRT_K-means_Analysis.ipynb_, which will generate:
     * k_pack_IN/OUT csv file for raw data of entrance and exit separately
     * cluster_group_IN/OUT csv file showing which stations belong to which cluster group
@@ -21,11 +22,11 @@ Steps
     * df_cluster.csv showing the entrance and exit group for each station
 3. Visualize the result in terms of clusters by heat map and line graph:
 
-|entrance cluster 1|entrance cluster 2|entrance cluster 3|entrance cluster 4|
+|entrance cluster 0|entrance cluster 1|entrance cluster 2|entrance cluster 3|
 | ------------- |:-------------:| :-----:| :-----:|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_0_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_1_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_2_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_3_3.png)|
 
-|exit cluster 1|exit cluster 2|exit cluster 3|exit cluster 4|
+|exit cluster 0|exit cluster 1|exit cluster 2|exit cluster 3|
 | ------------- |:-------------:| :-----:| :-----:|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_0_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_1_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_2_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_3_3.png)|
 
@@ -37,4 +38,12 @@ Line graph for exit:
 4. Visualize the result in terms of single station via _MRT_K-means_StationDashboard.ipynb_, which generate dashboard for all stations under the folder created by _MRT_K-means_Analysis.ipynb_:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/single_plot/1_2/BL12%20Plot.png)
 
+5. Spacialize the result using QGIS:
 
+|entrance cluster 0|entrance cluster 1|
+| ------------- |:-------------:|
+| ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_1.png)|
+
+|entrance cluster 2|entrance cluster 3|
+| ------------- |:-------------:|
+| ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_4.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_2.png)|
