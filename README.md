@@ -18,6 +18,8 @@ Below is the processing flow:
 </br>
 3. Visualize the result in terms of clusters:
 </br>
-| Left-aligned | Center-aligned | Right-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |    :---:      |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
