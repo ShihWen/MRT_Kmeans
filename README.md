@@ -7,7 +7,17 @@ Continue on the project [MRT_Cleaning_Visualizing](https://github.com/ShihWen/MR
 
 Below is the processing flow:
 </br>
-1. 
-2. 
 </br>
 <img src="https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png" alt="alt text"  height="250">
+</br>
+1. Refine the data using functions in MRT_cleaning_visualizing.ipynb, which will be used as raw data for K-means, where the data for each stations has been transfered from 7*21 table to a list and normalized.
+</br>
+</br>
+2. Run K-means analysis with those hourly number of people as variables.
+</br>
+</br>
+3. Visualize the result in terms of clusters:
+</br>
+| Left-aligned | Center-aligned | Right-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |    :---:      |
+
