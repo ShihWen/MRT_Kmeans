@@ -29,12 +29,12 @@ Steps
 | ------------- |:-------------:| :-----:| :-----:|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_0_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_1_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_2_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_3_3.png)|
 
-Entance:
+Line graph for entance:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_lineGraph.png)
-Exit:
+Line graph for exit:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_lineGraph.png)
 
 4. Visualize the result in terms of single station via _MRT_K-means_StationDashboard.ipynb_, which generate dashboard for all stations under the folder created by _MRT_K-means_Analysis.ipynb_:
-|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/single_plot/1_2/BL12%20Plot.png)
+![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/single_plot/1_2/BL12%20Plot.png)
 
 
