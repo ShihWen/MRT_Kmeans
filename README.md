@@ -9,10 +9,8 @@ Below is the processing flow:
 </br>
 <img align="right" src="https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png" alt="alt text"  height="250">
 </br>
-Process flow
-</br>
 
-1. Refine the data using functions in MRT_cleaning_visualizing.ipynb, which will be used as raw data for K-means, where the data for each stations has been transfered from 7*21 table to a list and normalized.
+1.Refine the data using functions in MRT_cleaning_visualizing.ipynb, which will be used as raw data for K-means, where the data for each stations has been transfered from 7*21 table to a list and normalized.
 </br>
 </br>
 2. Run K-means analysis with those hourly number of people as variables.
@@ -20,8 +18,4 @@ Process flow
 </br>
 3. Visualize the result in terms of clusters:
 </br>
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
