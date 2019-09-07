@@ -3,7 +3,7 @@
 
 Use MRT hourly data to run Kmeans analysis based on entrance and exit number of people for each station 
 </br>
-Please visted [Medium](https://medium.com/urban-matters/%E6%8D%B7%E9%81%8B%E5%88%86%E6%99%822-f351661ce609) for reference.
+Please visted [__Medium__](https://medium.com/urban-matters/%E6%8D%B7%E9%81%8B%E5%88%86%E6%99%822-f351661ce609) for reference.
 
 Continue on the project [_MRT_Cleaning_Visualizing_](https://github.com/ShihWen/MRT_Cleaning_Visualizing), here the data will be reshaped and divied into entrance and exit for each station, and run K-means clustering in order to explore deeper relation between stations in terms of people flow.</br>
 
@@ -13,14 +13,14 @@ Below is the processing flow:
 </br>
 Steps
 
-1. Refine the data using functions in MRT_cleaning_visualizing.ipynb, which will be used as raw data for K-means, </br>where the data for each stations has been transfered from 7*21 table to a list and normalized.
+1. Refine the data using functions in _MRT_cleaning_visualizing.ipynb_, which will be used as raw data for K-means, </br>where the data for each stations has been transfered from 7*21 table to a list and normalized.
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/raw_data.png)
 2. Run K-means analysis with those hourly number of people as variables by _MRT_K-means_Analysis.ipynb_, which will generate:
     * k_pack_IN/OUT csv file for raw data of entrance and exit separately
     * cluster_group_IN/OUT csv file showing which stations belong to which cluster group
     * line graph and heat map grouped by cluster
     * df_cluster.csv showing the entrance and exit group for each station
-3. Visualize the result in terms of clusters by heat map and line graph:
+3. _MRT_K-means_Analysis.ipynb_ visualize the result in terms of clusters by heat map and line graph:
 
 |entrance cluster 0|entrance cluster 1|entrance cluster 2|entrance cluster 3|
 | ------------- |:-------------:| :-----:| :-----:|
