@@ -7,7 +7,7 @@ Continue on the project [MRT_Cleaning_Visualizing](https://github.com/ShihWen/MR
 
 Below is the processing flow:
 </br>
-<img align="right" src="https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png" alt="alt text"  height="250">  
+![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png)
 </br>
 Steps
 </br>
