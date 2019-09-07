@@ -8,8 +8,9 @@ Continue on the project [MRT_Cleaning_Visualizing](https://github.com/ShihWen/MR
 Below is the processing flow:
 </br>
 <img align="right" src="https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png" alt="alt text"  height="250">  
-
-
+</br>
+Steps
+</br>
 1.Refine the data using functions in MRT_cleaning_visualizing.ipynb, which will be used as raw data for K-means, where the data for each stations has been transfered from 7*21 table to a list and normalized.
 </br>
 </br>
