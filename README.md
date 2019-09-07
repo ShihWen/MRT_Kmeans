@@ -35,7 +35,7 @@ Line graph for entance:
 Line graph for exit:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_lineGraph.png)
 
-4. Visualize the result in terms of single station via _MRT_K-means_StationDashboard.ipynb_, which generate dashboard for all stations under the folder created by _MRT_K-means_Analysis.ipynb_:
+4. Visualize the result in terms of single station via _MRT_K-means_StationDashboard.ipynb_, which generates dashboard for all stations under the folder created by _MRT_K-means_Analysis.ipynb_:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/single_plot/1_2/BL12%20Plot.png)
 
 5. Spacialize the result using QGIS:
