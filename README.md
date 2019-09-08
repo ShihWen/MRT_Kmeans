@@ -38,7 +38,7 @@ Line graph for exit:
 4. Visualize the result in terms of single station via _MRT_K-means_StationDashboard.ipynb_, which generates dashboard for all stations under the folder created by _MRT_K-means_Analysis.ipynb_:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/single_plot/1_2/BL12%20Plot.png)
 
-5. Geo visualize the result using QGIS and define the clusters by their patters into:
+5. Geo-visualize the result using QGIS and define the clusters by their patters into:
    1. Peak in the morning (cluster 0)
    2. Peak in both morning and afternoon, and weekends (cluster 1)
    3. Peak in the afternoon (cluster 2)
