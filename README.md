@@ -22,11 +22,11 @@ Steps
     * df_cluster.csv showing the entrance and exit group for each station
 3. _MRT_K-means_Analysis.ipynb_ visualize the result in terms of clusters by heat map and line graph:
 
-|entrance cluster 0|entrance cluster 1|entrance cluster 2|entrance cluster 3|
+|Entrance Cluster 0|Entrance Cluster 1|Entrance Cluster 2|Entrance Cluster 3|
 | ------------- |:-------------:| :-----:| :-----:|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_0_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_1_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_2_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_in_heatmap_3_3.png)|
 
-|exit cluster 0|exit cluster 1|exit cluster 2|exit cluster 3|
+|Exit Cluster 0|Exit Cluster 1|Exit Cluster 2|Exit Cluster 3|
 | ------------- |:-------------:| :-----:| :-----:|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_0_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_1_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_2_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/All_out_heatmap_3_3.png)|
 
@@ -64,6 +64,6 @@ It is significant to notice the stations regard as residential group are distrib
 
 |Group A|Group B|Group D|
 | :-------------: |:-------------:| :-----:|
-|entrance: peak at a.m.</br>exit: peak at p.m. |entrance: peak at p.m.</br>exit: peak at a.m.|entrance: peak at both + weekend</br>exit: peak at both + weekend|
-|type: residential|type: work place|type: residential, work and leisure|
+|Entrance: Peak at a.m.</br>Exit: Peak at p.m. |Entrance: Peak at p.m.</br>Exit: Peak at a.m.|Entrance: Peak at Both + Weekend</br>Exit: Peak at both + weekend|
+|Type: Residential|Type: Work Place|Type: Residential, Work and Leisure|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_a.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_b.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_d.png)|
