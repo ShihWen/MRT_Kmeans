@@ -3,7 +3,7 @@
 
 Use MRT hourly data to run Kmeans analysis based on entrance and exit number of people for each station 
 </br>
-You can alsoe read the article at [__Medium__](https://medium.com/urban-matters/%E6%8D%B7%E9%81%8B%E5%88%86%E6%99%822-f351661ce609) for reference.
+You can also read the article at [__Medium__](https://medium.com/urban-matters/%E6%8D%B7%E9%81%8B%E5%88%86%E6%99%822-f351661ce609) for reference.
 
 Continue on the project [_MRT_Cleaning_Visualizing_](https://github.com/ShihWen/MRT_Cleaning_Visualizing), here the data will be reshaped and divied into entrance and exit for each station, and run K-means clustering in order to explore deeper relation between stations in terms of people flow.</br>
 
