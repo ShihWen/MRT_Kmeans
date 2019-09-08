@@ -38,12 +38,23 @@ Line graph for exit:
 4. Visualize the result in terms of single station via _MRT_K-means_StationDashboard.ipynb_, which generates dashboard for all stations under the folder created by _MRT_K-means_Analysis.ipynb_:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/notebook_illustration/single_plot/1_2/BL12%20Plot.png)
 
-5. Spacialize the result using QGIS:
+5. Geo visualize the result using QGIS and define the clusters by their patters into:
+   1. Peak in the morning (cluster 0)
+   2. Peak in both morning and afternoon, and weekends (cluster 1)
+   3. Peak in the afternoon (cluster 2)
+   4. Peak in both morning and afternoon (cluster 3)
 
-|entrance cluster 0|entrance cluster 1|
-| ------------- |:-------------:|
+|Entrance Cluster 0|Entrance Cluster 1|
+| :-------------: |:-------------:|
+| Peak in the morning |Peak in both morning and afternoon, and weekends|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_3.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_1.png)|
 
-|entrance cluster 2|entrance cluster 3|
-| ------------- |:-------------:|
+|Entrance Cluster 2|Entrance Cluster 3|
+| :-------------: |:-------------:|
+| Peak in the afternoon |Peak in both morning and afternoon|
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_4.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_2.png)|
+
+6. For each station, merge its entrance and exit cluster in to final category.
+There are 16 possible combinations but there are only 9 as a result:
+
+
