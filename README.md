@@ -60,7 +60,7 @@ There are 16 possible combinations but only 9 generated:
 
 
 Below shows the distrubution of stations in group A, B and D:</br>
-It is significant to notice the stations regard as residential group are distributed around Taipei City, where work place and leisure tpyes are located at the center of the city.
+It is significant to notice the stations regard as residential group are distributed around Taipei City, while work place and leisure tpyes are located at the center of the city.
 
 |Group A|Group B|Group D|
 | :-------------: |:-------------:| :-----:|
