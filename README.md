@@ -59,7 +59,8 @@ There are 16 possible combinations but only 9 generated:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_table.jpeg)
 
 
-Below shows the distrubution of stations in group A, B and D:
+Below shows the distrubution of stations in group A, B and D:</br>
+It is significant to notice the stations regard as residential group are distributed around Taipei City, where work place and leisure tpyes are located at the center of the city.
 
 |Group A|Group B|Group D|
 | :-------------: |:-------------:| :-----:|
