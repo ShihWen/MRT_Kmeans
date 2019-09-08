@@ -55,6 +55,14 @@ Line graph for exit:
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_4.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_2.png)|
 
 6. For each station, merge its entrance and exit cluster in to final category.
-There are 16 possible combinations but there are only 9 as a result:
+There are 16 possible combinations but only 9 generated:
+![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_table.jpeg)
 
 
+Below shows the distrubution of stations in group A, B and D:
+
+|Group A|Group B|Group D|
+| :-------------: |:-------------:| :-----:|
+|entrance: peak at a.m.</br>exit: peak at p.m. |entrance: peak at p.m.</br>exit: peak at a.m.|entrance: peak at both + weekend</br>exit: peak at both + weekend|
+|type: residential|type: work place|type: residential, work and leisure|
+| ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_a.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_b.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_d.png)|
