@@ -55,7 +55,7 @@ Line graph for exit:
 | ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_4.png)|![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/inward_2.png)|
 
 6. For each station, merge its entrance and exit cluster in to final category.
-There are 16 possible combinations but only 9 generated:
+There are 16 possible combinations but only 9 generated in practice:
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/final_table.jpeg)
 
 
