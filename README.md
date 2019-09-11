@@ -7,7 +7,7 @@ You can also read the article at [__Medium__](https://medium.com/urban-matters/%
 
 Continue on the project [_MRT_Cleaning_Visualizing_](https://github.com/ShihWen/MRT_Cleaning_Visualizing), here the data will be reshaped and divied into entrance and exit for each station, and run K-means clustering in order to explore deeper relation between stations in terms of people flow.</br>
 
-Below is the processing flow:
+Below is the process flow:
 </br>
 ![](https://github.com/ShihWen/MRT_Kmeans/blob/master/image/flow_chart.png)
 </br>
