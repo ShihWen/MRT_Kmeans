@@ -1,5 +1,4 @@
-# Grouping MRT Stations using K-means Clustering</br>利用K-means Clustering替北捷站點進行分類</br>
-
+# Grouping MRT Stations using K-means Clustering
 
 Use MRT hourly data to run Kmeans analysis based on entrance and exit number of people for each station 
 </br>
